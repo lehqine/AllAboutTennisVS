@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_AllAboutTennis_a180970
+</name>
+</assembly>
+<members>
+<member name="T:prj_AllAboutTennis_a180970.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.insertdept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.logo_tennis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.menutennis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.screen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.screen1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.Tennis_Logo_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.Tennis_Logo_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.Tennis_Logo_removebg_preview2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.Tennis_Logo_removebg_preview3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.tennismenu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.tennismenu1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.thank_you">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.thank_you1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.thankyou">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_AllAboutTennis_a180970.My.Resources.Resources.thankyou2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
